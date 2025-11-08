@@ -1,16 +1,81 @@
-# React + Vite
+🧺 Wash Depot – Coin Laundry Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Wash Depot is a modern, responsive website built for our self-service and drop-off coin laundry located in Brampton, Ontario.
+This website showcases our services, pricing, contact details, and business hours — built with React and Tailwind CSS for a clean and professional experience.
 
-Currently, two official plugins are available:
+🌐 Live Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 https://wash-depot.vercel.app
 
-## React Compiler
+🧩 Tech Stack
+Technology	Purpose
+React (Vite)	Front-end framework
+Tailwind CSS	Styling and responsiveness
+Vercel	Hosting and deployment
+GitHub	Version control and collaboration
+🎨 Design Overview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The Wash Depot website follows a clean white-and-blue theme, inspired by professional laundry service branding.
+It features:
 
-## Expanding the ESLint configuration
+🧴 Modern navigation bar with “Drop Off Today” call-to-action
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🖼️ Hero section with background image of our laundry
+
+💬 Contact page with address, phone, and working hours
+
+🕗 Hours:
+
+Monday–Friday: 8:00 AM – 8:00 PM
+
+Saturday–Sunday: 7:00 AM – 8:00 PM
+
+⚙️ Installation & Setup
+
+If you want to run this website locally:
+
+# 1. Clone the repository
+git clone https://github.com/YOUR_USERNAME/wash-depot.git
+
+# 2. Move into the folder
+cd wash-depot
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
+
+
+Then open your browser and go to 👉 http://localhost:5173/
+
+🚀 Deployment
+
+The site is deployed on Vercel for fast, reliable hosting.
+Every push to the main branch automatically triggers a new live build.
+
+📞 Business Information
+
+📍 Address: 1785 Queen St E, Brampton, ON L6T 4S3
+📞 Phone: (905) 791-9274
+🕒 Hours:
+
+Monday – Friday: 8 AM – 8 PM
+
+Saturday & Sunday: 7 AM – 8 PM
+
+💡 Future Enhancements
+
+🧾 Online wash & fold order form
+
+🕓 Real-time machine availability
+
+💸 QR code payment integration
+
+📱 Mobile-friendly booking dashboard
+
+🧑‍💻 Author
+
+Built with ❤️ by Amirreza Parsafard
+📍 Based in Brampton, Ontario
+🚀 GitHub Profile
