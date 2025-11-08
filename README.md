@@ -76,6 +76,6 @@ Saturday & Sunday: 7 AM – 8 PM
 
 🧑‍💻 Author
 
-Built with ❤️ by Amirreza Parsafard
+Built with ❤️ by Mohammad Parsafard
 📍 Based in Brampton, Ontario
 🚀 GitHub Profile
