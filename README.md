@@ -8,7 +8,7 @@
 ## 🌐 Live Demo  
 🔗 **[Visit the Website](https://wash-depot.vercel.app)**  
 
-![Wash Depot Screenshot](https://user-images.githubusercontent.com/your-screenshot-link.png)  
+![Wash Depot Screenshot](./src/assets/readme-img.png)  
 *(Optional: Replace this link with a screenshot from your deployed site)*  
 
 ---
