@@ -1,81 +1,84 @@
-🧺 Wash Depot – Coin Laundry Website
+# 🧺 Wash Depot – Coin Laundry Website  
 
-Wash Depot is a modern, responsive website built for our self-service and drop-off coin laundry located in Brampton, Ontario.
-This website showcases our services, pricing, contact details, and business hours — built with React and Tailwind CSS for a clean and professional experience.
+> **Modern, responsive website for Wash Depot Coin Laundry built with React + Tailwind CSS.**  
+> Clean design, simple navigation, and a professional look to represent our laundry services in Brampton, Ontario.  
 
-🌐 Live Website
+---
 
-👉 https://wash-depot.vercel.app
+## 🌐 Live Demo  
+🔗 **[Visit the Website](https://wash-depot.vercel.app)**  
 
-🧩 Tech Stack
-Technology	Purpose
-React (Vite)	Front-end framework
-Tailwind CSS	Styling and responsiveness
-Vercel	Hosting and deployment
-GitHub	Version control and collaboration
-🎨 Design Overview
+![Wash Depot Screenshot](https://user-images.githubusercontent.com/your-screenshot-link.png)  
+*(Optional: Replace this link with a screenshot from your deployed site)*  
 
-The Wash Depot website follows a clean white-and-blue theme, inspired by professional laundry service branding.
-It features:
+---
 
-🧴 Modern navigation bar with “Drop Off Today” call-to-action
+## 🧩 Tech Stack  
 
-🖼️ Hero section with background image of our laundry
+| Technology | Description |
+|-------------|--------------|
+| ⚛️ **React (Vite)** | Front-end framework |
+| 🎨 **Tailwind CSS** | Utility-first CSS framework for modern UI |
+| 🚀 **Vercel** | Hosting and deployment |
+| 💾 **GitHub** | Version control and collaboration |
 
-💬 Contact page with address, phone, and working hours
+---
 
-🕗 Hours:
+## 🎨 Design Overview  
 
-Monday–Friday: 8:00 AM – 8:00 PM
+🧴 A **minimal, white-and-blue theme** inspired by professional laundry brands.  
+The site is built for clarity, speed, and mobile responsiveness.
 
-Saturday–Sunday: 7:00 AM – 8:00 PM
+### ✨ Features  
+- Clean, modern **navbar** with "Drop Off Today" CTA  
+- Large **hero banner** with background image  
+- Informative **services** and **pricing** sections  
+- Simple, clear **contact page** with location & phone  
+- Fully **responsive layout** across all devices  
 
-⚙️ Installation & Setup
+---
 
-If you want to run this website locally:
+## 🕗 Business Hours  
 
-# 1. Clone the repository
+| Day | Hours |
+|-----|--------|
+| Monday – Friday | 8:00 AM – 8:00 PM |
+| Saturday – Sunday | 7:00 AM – 8:00 PM |
+
+📍 **Address:** 1785 Queen St E, Brampton, ON L6T 4S3  
+📞 **Phone:** (905) 791-9274  
+
+---
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally:
+
+```bash
+# 1️⃣ Clone the repository
 git clone https://github.com/YOUR_USERNAME/wash-depot.git
 
-# 2. Move into the folder
+# 2️⃣ Move into the project folder
 cd wash-depot
 
-# 3. Install dependencies
+# 3️⃣ Install dependencies
 npm install
 
-# 4. Start the development server
+# 4️⃣ Start the development server
 npm run dev
 
 
-Then open your browser and go to 👉 http://localhost:5173/
 
-🚀 Deployment
+## 👨‍💻 Author
 
-The site is deployed on Vercel for fast, reliable hosting.
-Every push to the main branch automatically triggers a new live build.
+**Mohammad Parsafard**  
+📍 Ontario, Canada  
+💼 (https://github.com/Mohammad-prs)
 
-📞 Business Information
+---
 
-📍 Address: 1785 Queen St E, Brampton, ON L6T 4S3
-📞 Phone: (905) 791-9274
-🕒 Hours:
+## 💙 Credits
 
-Monday – Friday: 8 AM – 8 PM
-
-Saturday & Sunday: 7 AM – 8 PM
-
-💡 Future Enhancements
-
-🧾 Online wash & fold order form
-
-🕓 Real-time machine availability
-
-💸 QR code payment integration
-
-📱 Mobile-friendly booking dashboard
-
-🧑‍💻 Author
-
-Built with ❤️ by Mohammad Parsafard
-📍 Based in Brampton, Ontario
-🚀 GitHub Profile
+Built with ❤️ using:  
+**React + Tailwind CSS + Vite**  
+Deployed on **Vercel**
