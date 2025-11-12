@@ -5,11 +5,8 @@ export default function Contact() {
         Contact Us
       </h2>
 
-      <div className="max-w-xl mx-auto bg-white shadow-lg rounded-xl p-8">
-        <p className="text-lg mb-4">
-          Have questions or need help with your laundry?  
-          We're always happy to assist.
-        </p>
+      <div className="max-w-xl mx-auto bg-white shadow-lg rounded-xl p-4">
+        
 
         <div className="mt-8 space-y-4 text-gray-700">
           <div>

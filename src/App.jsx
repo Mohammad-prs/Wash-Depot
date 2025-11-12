@@ -3,6 +3,7 @@ import Hero from "./components/Hero";
 import Services from "./components/Services";
 import Pricing from "./components/Pricing";
 import Contact from "./components/Contact";
+import PreFooter from "./components/PreFooter"; // 👈 new import
 import Footer from "./components/Footer";
 
 export default function App() {
@@ -13,6 +14,9 @@ export default function App() {
       <Services />
       <Pricing />
       <Contact />
+
+      <PreFooter />
+
       <Footer />
     </div>
   );

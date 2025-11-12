@@ -2,3 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+  scroll-margin-top: 5rem; /* adjust if navbar size changes */
+}
